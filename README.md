@@ -1,7 +1,7 @@
 # IssueSentimentTone
 
-The aim of these codes is identifying the correlational impacts of sentiment and tone in issue discussions of three well-known Machine Learning GitHub repositories, 
-Scikit-learn, PyTorch, and Tensorflow. There are embedded sentiment and tone in issues and comments. So, we split our data into different categories such as issue length, issue poster role, issue type, and commit size.
+The purpose of these codes is identifying the correlational impacts of sentiment and tone in issue discussions of three well-known Machine Learning GitHub repositories, 
+Scikit-learn, PyTorch, and Tensorflow. There are embedded sentiment and tone in issues and comments.  We split our data into different categories such as issue length, issue poster, issue type, and commit size to investigate this correlation.
 
   - The "IssueData.csv" file contains all the issues, and their comments of the three mentioned repositories.
   - The "ListOfAllCommitsPyTorch.csv" file is the list of all the PyTorch commits. 
